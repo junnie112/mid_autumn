@@ -366,7 +366,7 @@ const wishList = [
     img: "./assets/3.jpg",
   },
   {
-    text: "Trăng đêm nay dù có sáng đến đâu, thế giới ngoài kia dẫu có ồn ào thế nào, thì trạm sạc bình yên nhất của tớ vẫn luôn là em.",
+    text: "Trăng đêm nay dù có sáng đến đâu, thế giới ngoài kia dẫu có ồn ào thế nào, thì trạm sạc bình yên nhất của anh vẫn luôn là em.",
     img: "./assets/4.png",
   },
   {
@@ -386,7 +386,7 @@ const wishList = [
     img: "./assets/10.png",
   },
   {
-    text: "Không mong những điều quá lớn lao, chỉ mong mỗi ngày đều thấy em rạng rỡ và bình an. Chúc cậu đón một cái Tết Trung Thu thật ý nghĩa.",
+    text: "Không mong những điều quá lớn lao, chỉ mong mỗi ngày đều thấy em rạng rỡ và bình an. Chúc em đón một cái Tết Trung Thu thật ý nghĩa.",
     img: "./assets/8.png",
   },
   {
